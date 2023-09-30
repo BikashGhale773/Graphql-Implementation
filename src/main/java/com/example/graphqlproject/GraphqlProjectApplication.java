@@ -8,8 +8,7 @@ public class GraphqlProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GraphqlProjectApplication.class, args);
-		System.out.println("Hello Graphql");
-		System.out.println("Hello Graphql");
+
 
 
 	}
